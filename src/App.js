@@ -11,7 +11,7 @@ class App extends Component {
     <Layout>
         <Header className="header-color" title={<Link style={{textDecoration: 'none', color: 'white'}} to="/myresume">Home</Link>} scroll>
             <Navigation>
-                <Link to="/myresume">Resume</Link>
+                <Link to="/resume">Resume</Link>
                 <Link to="/aboutme">About Me</Link>
                 <Link to="/projects">Projects</Link>
                 <Link to="/certification">Certification</Link>

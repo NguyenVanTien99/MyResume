@@ -26,33 +26,6 @@ class Resume extends Component {
                  schoolDescription="Bootcamp Java3 2020"
                   />
                 <hr style={{borderTop: '3px solid #e22947'}} />
-  
-
-              <h2>Skills</h2>
-              <Skills
-                skill="javascript"
-                progress={70}
-                />
-                <Skills
-                  skill="HTML/CSS"
-                progress={60}
-                  />
-                  <Skills
-                    skill="NodeJS"
-                progress={50}
-                    />
-                    <Skills
-                      skill="React"
-                progress={25}
-                      />
-                    <Skills
-                      skill="GIT"
-                progress={25}
-                      />
-                <Skills
-                skill="English"
-                progress={50}
-                      />
 
           </Cell>
         </Grid>
